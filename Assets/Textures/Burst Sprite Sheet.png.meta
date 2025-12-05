@@ -1,0 +1,664 @@
+fileFormatVersion: 2
+guid: a34a4afe271632c42aba97143bef9086
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Burst Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 819.2
+        width: 204.8
+        height: 204.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f43a123fbeafe47a8e2202dd95dfc7
+      internalID: 696972188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 819.2
+        width: 204.8
+        height: 204.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcc957663735334a850b759fbd22253
+      internalID: -929476947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 819.2
+        width: 204.8
+        height: 204.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba8435d9ff8b6048962158c4395d674
+      internalID: -1416996692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 819.2
+        width: 204.8
+        height: 204.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b7804df66417b42bf9ced5c754576a
+      internalID: 1956409553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 819.2
+        width: 204.8
+        height: 204.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eff3301aaec74847bedd3bdd24d0c0e
+      internalID: 771932049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 615.2
+        width: 204.8
+        height: 204.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e68556418fe1ab41bc3947f5da6e6c2
+      internalID: 2092435171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 615.2
+        width: 204.8
+        height: 204.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8024705dbfa494dae197e3602fdba2
+      internalID: -34913202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 615.2
+        width: 204.8
+        height: 204.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2907a7510b05b8d4594b482be24cd52b
+      internalID: 141315445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 615.2
+        width: 204.8
+        height: 204.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: defd03153f1a59f469f68179805706b7
+      internalID: 1565546588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 615.2
+        width: 204.8
+        height: 204.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e56514754f724438c181cc88a78404
+      internalID: -1202317194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 411.2
+        width: 204.8
+        height: 204.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ee9506b916eed47b747c43a2870bcb
+      internalID: 669818682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 411.2
+        width: 204.8
+        height: 204.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf0dc7340619e44e9cb31e18f39d652
+      internalID: 561541659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 411.2
+        width: 204.8
+        height: 204.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf5e6d6a8694934d923b4acdba4ab24
+      internalID: -1824965824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst Sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 411.2
+        width: 204.8
+        height: 204.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b234fd1b151671b4e998cabd7cb9f98e
+      internalID: -1724610081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst Sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 411.2
+        width: 204.8
+        height: 204.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d5a67247768a04586fc294e1e8da54
+      internalID: -1673824785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst Sprite Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207.2
+        width: 204.8
+        height: 204.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f273a699c5064c9498fb2d08454baa1a
+      internalID: 466932774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst Sprite Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 207.2
+        width: 204.8
+        height: 204.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8e123c02c5be34f9799364b9c49c17
+      internalID: -991685348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst Sprite Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 207.2
+        width: 204.8
+        height: 204.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5cf5e038358b084fa47926b2a205327
+      internalID: 2140627095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst Sprite Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 207.2
+        width: 204.8
+        height: 204.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9997d28fcac75441871bd0f725c1c83
+      internalID: -77219308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst Sprite Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 207.2
+        width: 204.8
+        height: 204.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42a6ac4bbbf3f84c890f73ef56159a1
+      internalID: -822421609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst Sprite Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3.199997
+        width: 204.8
+        height: 204.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56141cfb7f9e1be41a9c45d094107edc
+      internalID: -1631001030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst Sprite Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 3.199997
+        width: 204.8
+        height: 204.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47aabd2ea32413540bc649a243fbf6ed
+      internalID: 519511882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst Sprite Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 3.199997
+        width: 204.8
+        height: 204.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950933bcc1d472644ac63971c777b30c
+      internalID: 1205360657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst Sprite Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 3.199997
+        width: 204.8
+        height: 204.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6af5a5af39a1a543995f1560d57adfc
+      internalID: 89470071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst Sprite Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 3.199997
+        width: 204.8
+        height: 204.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f64cfa0ae24e447850563cc426f94b
+      internalID: 335904279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Burst Sprite Sheet_0: 696972188
+      Burst Sprite Sheet_1: -929476947
+      Burst Sprite Sheet_10: 669818682
+      Burst Sprite Sheet_11: 561541659
+      Burst Sprite Sheet_12: -1824965824
+      Burst Sprite Sheet_13: -1724610081
+      Burst Sprite Sheet_14: -1673824785
+      Burst Sprite Sheet_15: 466932774
+      Burst Sprite Sheet_16: -991685348
+      Burst Sprite Sheet_17: 2140627095
+      Burst Sprite Sheet_18: -77219308
+      Burst Sprite Sheet_19: -822421609
+      Burst Sprite Sheet_2: -1416996692
+      Burst Sprite Sheet_20: -1631001030
+      Burst Sprite Sheet_21: 519511882
+      Burst Sprite Sheet_22: 1205360657
+      Burst Sprite Sheet_23: 89470071
+      Burst Sprite Sheet_24: 335904279
+      Burst Sprite Sheet_3: 1956409553
+      Burst Sprite Sheet_4: 771932049
+      Burst Sprite Sheet_5: 2092435171
+      Burst Sprite Sheet_6: -34913202
+      Burst Sprite Sheet_7: 141315445
+      Burst Sprite Sheet_8: 1565546588
+      Burst Sprite Sheet_9: -1202317194
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
